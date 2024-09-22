@@ -49,7 +49,7 @@ Welcome to **SleepGuardian**, your reliable tool for managing monitor sleep sche
 After installation, you can launch SleepGuardian using one of the following methods:
 
 - **Desktop Shortcut:**
-  - Double-click the **SleepGuardian** icon on your desktop.
+  - Double-click the **SleepGuardian** icon on your desktop. It will start in your tray. Double click to open up menu from the tray.
 
 - **Start Menu:**
   - Click the **Start** button, navigate to **All Apps**, find **SleepGuardian**, and click to launch.
@@ -64,6 +64,8 @@ After installation, you can launch SleepGuardian using one of the following meth
 SleepGuardian allows you to control monitor sleep schedules using a convenient global keyboard shortcut.
 
 ### **Default Shortcut Combination:**
+- "X" (sorry about that!)
+In next version:
 - **Ctrl + Shift + X**
 
 ### **Functionality:**
